@@ -11,3 +11,5 @@ git checkout 分支名 切换到某分支
 git checkout -b dev 创建一个新的本地分支dev并转到dev分支
 git branch 查看所有分支
 git branch -d 分支名 删除某分支
+
+git add ./文件名 提交文件
